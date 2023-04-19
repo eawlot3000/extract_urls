@@ -25,5 +25,5 @@ python main.py [file]
 
 # TODO
 * support ones other than https?
-* multi file input
+* multi files input
 * ** **accuracy** **?
