@@ -1,9 +1,9 @@
-### requirements
+## requirements
 ```
 python3 & CLI (terminal)
 ```
 
-### usage
+## usage
 #### just run:
 ```
 python main.py
