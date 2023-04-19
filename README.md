@@ -1,14 +1,14 @@
-### requirements:
+### requirements
 ```
 python3 & CLI (terminal)
 ```
 
-### usage:
+### usage
+#### just run:
 ```
 python main.py
 ```
-
-### usage with files input:
+#### with files input:
 ```
 python main.py [file]
 ```
