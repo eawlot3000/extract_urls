@@ -3,8 +3,9 @@ this is a simple tool that help you extract [valid] internet urls from text cont
 
 # features
 * support http & https
-* take file input!
-* check *real* url using curl locally
+* take files input!
+* more: check *real* url using curl locally
+* **open urls with your selection!**
 
 
 # requirements
