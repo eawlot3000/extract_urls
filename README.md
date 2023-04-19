@@ -21,3 +21,9 @@ python main.py
 ```
 python main.py [file]
 ```
+
+
+# TODO
+* support ones other than https?
+* multi file input
+* ** accuracy **?
