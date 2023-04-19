@@ -4,7 +4,7 @@ this is a simple tool that help you extract [valid] internet urls from text cont
 # features
 * support http & https
 * take file input!
-* check *real* url using curl command locally
+* check *real* url using curl locally
 
 
 # requirements
